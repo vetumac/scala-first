@@ -7,7 +7,7 @@ object Timer {
   }
 
   def timeFlies(): Unit = {
-    Console.println("Time flies when you're having fun(ctionally)...");
+    Console.println("Time flies when you're having fun(ctionally)...")
   }
 
   def main(args: Array[String]): Unit = {
